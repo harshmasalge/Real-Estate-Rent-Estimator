@@ -1,4 +1,4 @@
-# Real Estate Price Estimator
+# Real Estate Rent Estimator
 
 [Hugging Face](https://huggingface.co/spaces/harshmasalge/sttai/)
 
