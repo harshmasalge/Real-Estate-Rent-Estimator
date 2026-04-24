@@ -1,4 +1,4 @@
-# Assignment_4
+# Real Estate Price Estimator
 
 [Hugging Face](https://huggingface.co/spaces/harshmasalge/sttai/)
 
